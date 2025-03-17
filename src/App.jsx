@@ -1,7 +1,11 @@
 import React from 'react'
 
 function App() {
-  return <div>App</div>
+  return (
+    <main>
+      <h1 className="text-5xl text-orange-500 font-bold ">ANIMATION STATION</h1>
+    </main>
+  )
 }
 
 export default App
