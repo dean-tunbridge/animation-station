@@ -2,6 +2,7 @@
 
 body {
   font-family: 'General Sans', sans-serif;
+  width: 100dvw;
 }
 
 @layer base {
